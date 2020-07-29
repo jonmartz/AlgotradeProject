@@ -1,0 +1,2 @@
+model name,MSE_absolute_avg,MSE_absolute_std,MSE_pct_change_avg,MSE_pct_change_std
+SGD elasticnet,0.9224147540916754,0.0,0.00010739961152811353,0.0
